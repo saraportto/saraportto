@@ -9,9 +9,10 @@
 
 <p align="left">
   <a href="https://github.com/saraportto">
-    <img src="https://github-readme-stats.vercel.app/api?username=saraportto&show_icons=true&theme=transparent&title_color=FF1493&icon_color=FF1493&text_color=333333" alt="Sara's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=saraportto&show_icons=true&theme=transparent&title_color=FF1493&icon_color=FF1493&text_color=FFFFFF" alt="Sara's GitHub stats"/>
   </a>
 </p>
+
 
 
 ## 🛠️ Tech Stack
