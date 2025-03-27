@@ -1,4 +1,4 @@
-[![Hello there!](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4500&width=435&lines=Hey,+I'm+Sara!;Exploring+AI+and+Tech!)](https://git.io/typing-svg)
+[![Hello there!](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1493&width=435&lines=Hey,+I'm+Sara!;Exploring+AI!)](https://git.io/typing-svg)
 
 
 ## 👩🏼‍💻 About Me
