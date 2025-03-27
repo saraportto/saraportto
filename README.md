@@ -1,4 +1,4 @@
-[![Hello there!](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1493&width=435&lines=Hey,+I'm+Sara!;Exploring+AI!)](https://git.io/typing-svg)
+[![Hello there!](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF1493&width=435&lines=👋Hey,+I'm+Sara!;Exploring+AI!)](https://git.io/typing-svg)
 
 
 ## 👩🏼‍💻 About Me
@@ -12,7 +12,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=saraportto&show_icons=true&theme=transparent&title_color=FF1493&icon_color=FF1493&text_color=808080" alt="Sara's GitHub stats"/>
   </a>
 </p>
-
 
 
 ## 🛠️ Tech Stack
