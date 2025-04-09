@@ -13,6 +13,13 @@
   </a>
 </p>
 
+## 📚 Most Used Languages
+
+<p align="left">
+  <a href="https://github.com/saraportto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraportto&layout=compact&theme=transparent&title_color=FF1493&text_color=808080" alt="Top Langs"/>
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 
