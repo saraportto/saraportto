@@ -8,13 +8,19 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=saraportto&show_icons=true&theme=radical&title_color=FF1493&icon_color=FF1493&text_color=ffffff" alt="Estadísticas de Sara" />
+  <a href="https://github.com/saraportto">
+    <img src="https://github-readme-stats.vercel.app/api?username=saraportto&show_icons=true&theme=transparent&title_color=FF1493&icon_color=FF1493&text_color=808080" alt="Sara's GitHub stats"/>
+  </a>
 </p>
+
+
 
 ## 📚 Most Used Languages
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraportto&layout=compact&theme=radical&title_color=FF1493&text_color=ffffff" alt="Lenguajes más usados" />
+  <a href="https://github.com/saraportto">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraportto&layout=compact&theme=transparent&title_color=FF1493&text_color=808080" alt="Top Langs"/>
+  </a>
 </p>
 
 ## 🛠️ Tech Stack
