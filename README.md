@@ -34,7 +34,7 @@
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sara-porto-%C3%A1lvarez-aba103355/">
+  <a href="https://www.linkedin.com/in/sara-porto-alvarez">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:saraportoalvarez@gmail.com">
